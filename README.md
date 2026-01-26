@@ -46,7 +46,7 @@ git clone https://github.com/yourusername/terminal-password-manager.git
 ```bash
 cd terminal-password-manager
 ```
-### 2. Run the script: Ensure you have Python 3.x installed.
+### 2. Run the script: Ensure you have Python 3.x installed:
 ```bash
 python main.py
 ```
