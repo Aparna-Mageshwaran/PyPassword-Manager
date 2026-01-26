@@ -50,7 +50,7 @@ cd terminal-password-manager
 ```bash
 python main.py
 ```
-### 3. Navigate the Menu: Simply enter the number corresponding to your desired action (1–7).
+### 3. Navigate the Menu: Simply enter the number corresponding to your desired action.
 
 ---
 
